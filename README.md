@@ -70,11 +70,11 @@ cd bidbot
 
 Bidbot works on its own, but it's also part of Quarizmi's end-to-end paid-search system:
 
-- **[EKEP](../ekep)** — discovers long-tail keywords
+- **[EKEP](https://github.com/Quarizmi/ekep)** — discovers long-tail keywords
 - **Bidbot** — decides bids and which keywords to turn on or off _(you are here)_
-- **[Usable](../usable)** — builds full campaigns with the user in the loop
-- **[Magneto](../magneto)** — writes high-relevance ads for every keyword
-- **[Health Checker](../health-checker)** — grades an existing Google Ads account (standalone)
+- **[Usable](https://github.com/Quarizmi/usable)** — builds full campaigns with the user in the loop
+- **[Magneto](https://github.com/Quarizmi/magneto)** — writes high-relevance ads for every keyword
+- **[Health Checker](https://github.com/Quarizmi/healthchecker)** — grades an existing Google Ads account (standalone)
 
 ## Use it yourself, or work with us
 
